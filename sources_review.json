@@ -1,0 +1,552 @@
+{
+  "updated": "2026-11-02T15:27:26",
+  "note": "人工复核用：adult=A033 配置标记(None=未标); how=search|catalog; n=样本条数",
+  "sources": [
+    {
+      "url": "http://154.219.117.232:9981/jacloudapi.php/provide/vod/",
+      "how": "search",
+      "n": 20,
+      "adult": null,
+      "name": ""
+    },
+    {
+      "url": "http://api.guangsuapi.com/api.php/provide/vod/",
+      "how": "search",
+      "n": 6,
+      "adult": false,
+      "name": "api.guangsuapi.com"
+    },
+    {
+      "url": "http://caiji.dyttzyapi.com/api.php/provide/vod/",
+      "how": "search",
+      "n": 4,
+      "adult": false,
+      "name": "caiji.dyttzyapi.com"
+    },
+    {
+      "url": "http://cj.10010888.xyz/api.php/provide/vod/",
+      "how": "search",
+      "n": 7,
+      "adult": null,
+      "name": ""
+    },
+    {
+      "url": "http://cj.ffzyapi.com/api.php/provide/vod/",
+      "how": "search",
+      "n": 4,
+      "adult": false,
+      "name": "❤非凡资源"
+    },
+    {
+      "url": "http://cj.lziapi.com/api.php/provide/vod/",
+      "how": "search",
+      "n": 20,
+      "adult": false,
+      "name": "cj.lziapi.com"
+    },
+    {
+      "url": "http://cj.tianwe.cn/api.php/provide/vod/",
+      "how": "search",
+      "n": 7,
+      "adult": null,
+      "name": ""
+    },
+    {
+      "url": "http://ffzy.tv/api.php/provide/vod/",
+      "how": "search",
+      "n": 4,
+      "adult": false,
+      "name": "ffzy.tv"
+    },
+    {
+      "url": "http://ffzy5.tv/api.php/provide/vod/",
+      "how": "search",
+      "n": 4,
+      "adult": false,
+      "name": "🍀┃非凡┃资源·1号VIP源"
+    },
+    {
+      "url": "http://fhapi9.com/api.php/provide/vod/",
+      "how": "catalog",
+      "n": 32,
+      "adult": false,
+      "name": "fhapi9.com"
+    },
+    {
+      "url": "http://jyzyapi.com/provide/vod/from/jinyingm3u8/",
+      "how": "search",
+      "n": 6,
+      "adult": null,
+      "name": ""
+    },
+    {
+      "url": "http://sdzyapi.com/api.php/provide/vod/",
+      "how": "catalog",
+      "n": 59,
+      "adult": false,
+      "name": "sdzyapi.com"
+    },
+    {
+      "url": "http://tyyszy.com/api.php/provide/vod/",
+      "how": "catalog",
+      "n": 39,
+      "adult": false,
+      "name": "tyyszy.com"
+    },
+    {
+      "url": "http://www.jingpinx.com/api.php/provide/vod/",
+      "how": "search",
+      "n": 1,
+      "adult": false,
+      "name": "★精品下(直连)"
+    },
+    {
+      "url": "https://155api.com/api.php/provide/vod/",
+      "how": "catalog",
+      "n": 40,
+      "adult": false,
+      "name": "155api.com"
+    },
+    {
+      "url": "https://360zy.com/api.php/provide/vod/",
+      "how": "search",
+      "n": 5,
+      "adult": false,
+      "name": "360zy.com"
+    },
+    {
+      "url": "https://360zyzz.com/api.php/provide/vod/",
+      "how": "search",
+      "n": 5,
+      "adult": false,
+      "name": "360zyzz.com"
+    },
+    {
+      "url": "https://aosikazy.com/api.php/provide/vod/",
+      "how": "catalog",
+      "n": 28,
+      "adult": false,
+      "name": "🔞-奥斯卡-"
+    },
+    {
+      "url": "https://api.apibdzy.com/api.php/provide/vod/",
+      "how": "search",
+      "n": 3,
+      "adult": false,
+      "name": "🎏百度┃采集·ok线路1"
+    },
+    {
+      "url": "https://api.ddapi.cc/api.php/provide/vod/",
+      "how": "catalog",
+      "n": 28,
+      "adult": false,
+      "name": "api.ddapi.cc"
+    },
+    {
+      "url": "https://api.douapi.cc/api.php/provide/vod/",
+      "how": "catalog",
+      "n": 28,
+      "adult": false,
+      "name": "api.douapi.cc"
+    },
+    {
+      "url": "https://api.ffzyapi.com/api.php/provide/vod/",
+      "how": "search",
+      "n": 4,
+      "adult": false,
+      "name": "api.ffzyapi.com"
+    },
+    {
+      "url": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "how": "search",
+      "n": 6,
+      "adult": false,
+      "name": "api.guangsuapi.com"
+    },
+    {
+      "url": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
+      "how": "search",
+      "n": 6,
+      "adult": false,
+      "name": "❤光速资源"
+    },
+    {
+      "url": "https://api.maoyanapi.top/api.php/provide/vod/",
+      "how": "search",
+      "n": 3,
+      "adult": false,
+      "name": "api.maoyanapi.top"
+    },
+    {
+      "url": "https://api.niuniuzy.me/api.php/provide/vod/",
+      "how": "catalog",
+      "n": 59,
+      "adult": false,
+      "name": "api.niuniuzy.me"
+    },
+    {
+      "url": "https://api.souavzy.vip/api.php/provide/vod/",
+      "how": "catalog",
+      "n": 99,
+      "adult": false,
+      "name": "🔞souavZY"
+    },
+    {
+      "url": "https://api.souavzyw.net/api.php/provide/vod/",
+      "how": "catalog",
+      "n": 103,
+      "adult": false,
+      "name": "🔞souavZY"
+    },
+    {
+      "url": "https://api.ukuapi88.com/api.php/provide/vod/",
+      "how": "search",
+      "n": 2,
+      "adult": false,
+      "name": "api.ukuapi88.com"
+    },
+    {
+      "url": "https://api.wsyzy.net/api.php/provide/vod/",
+      "how": "catalog",
+      "n": 60,
+      "adult": null,
+      "name": ""
+    },
+    {
+      "url": "https://api.wujinapi.com/api.php/provide/vod/",
+      "how": "search",
+      "n": 7,
+      "adult": false,
+      "name": "api.wujinapi.com"
+    },
+    {
+      "url": "https://api.wujinapi.me/api.php/provide/vod/",
+      "how": "catalog",
+      "n": 63,
+      "adult": false,
+      "name": "❤无尽资源"
+    },
+    {
+      "url": "https://api.wujinapi.net/api.php/provide/vod/",
+      "how": "catalog",
+      "n": 63,
+      "adult": false,
+      "name": "api.wujinapi.net"
+    },
+    {
+      "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "how": "search",
+      "n": 6,
+      "adult": null,
+      "name": ""
+    },
+    {
+      "url": "https://api.zuidapi.com/api.php/provide/vod/",
+      "how": "search",
+      "n": 8,
+      "adult": false,
+      "name": "api.zuidapi.com"
+    },
+    {
+      "url": "https://apidanaizi.com/api.php/provide/vod/",
+      "how": "catalog",
+      "n": 36,
+      "adult": false,
+      "name": "🔞-大奶子-"
+    },
+    {
+      "url": "https://apilsbzy1.com/api.php/provide/vod/",
+      "how": "catalog",
+      "n": 25,
+      "adult": false,
+      "name": "🔞-老色逼-"
+    },
+    {
+      "url": "https://apiyutu.com/api.php/provide/vod/",
+      "how": "catalog",
+      "n": 25,
+      "adult": false,
+      "name": "apiyutu.com"
+    },
+    {
+      "url": "https://app.bfzyapi.com/api.php/provide/vod/",
+      "how": "search",
+      "n": 20,
+      "adult": false,
+      "name": "app.bfzyapi.com"
+    },
+    {
+      "url": "https://beiyong.slapibf.com/api.php/provide/vod/",
+      "how": "search",
+      "n": 20,
+      "adult": false,
+      "name": "🔞森林资源"
+    },
+    {
+      "url": "https://bfzyapi.com/api.php/provide/vod/",
+      "how": "search",
+      "n": 20,
+      "adult": false,
+      "name": "bfzyapi.com"
+    },
+    {
+      "url": "https://caiji.maotaizy.cc/api.php/provide/vod/",
+      "how": "catalog",
+      "n": 54,
+      "adult": false,
+      "name": "caiji.maotaizy.cc"
+    },
+    {
+      "url": "https://caiji.moduapi.cc/api.php/provide/vod/",
+      "how": "search",
+      "n": 3,
+      "adult": false,
+      "name": "caiji.moduapi.cc"
+    },
+    {
+      "url": "https://cj.lziapi.com/api.php/provide/vod/",
+      "how": "search",
+      "n": 20,
+      "adult": false,
+      "name": "cj.lziapi.com"
+    },
+    {
+      "url": "https://cj.yayazy.net/api.php/provide/vod/",
+      "how": "catalog",
+      "n": 59,
+      "adult": false,
+      "name": "cj.yayazy.net"
+    },
+    {
+      "url": "https://ckzy.me/api.php/provide/vod/",
+      "how": "catalog",
+      "n": 2,
+      "adult": false,
+      "name": "🔞 CK-资源"
+    },
+    {
+      "url": "https://ffzy.tv/api.php/provide/vod/",
+      "how": "search",
+      "n": 4,
+      "adult": false,
+      "name": "非凡2"
+    },
+    {
+      "url": "https://hhzyapi.com/api.php/provide/vod/",
+      "how": "search",
+      "n": 6,
+      "adult": false,
+      "name": "hhzyapi.com"
+    },
+    {
+      "url": "https://hsckzy.xyz/api.php/provide/vod/",
+      "how": "catalog",
+      "n": 41,
+      "adult": false,
+      "name": "🔞黄色仓库"
+    },
+    {
+      "url": "https://iqiyizyapi.com/api.php/provide/vod/",
+      "how": "search",
+      "n": 5,
+      "adult": false,
+      "name": "iqiyizyapi.com"
+    },
+    {
+      "url": "https://jinyingzy.com/api.php/provide/vod/",
+      "how": "search",
+      "n": 6,
+      "adult": false,
+      "name": "jinyingzy.com"
+    },
+    {
+      "url": "https://jkunzyapi.com/api.php/provide/vod/",
+      "how": "catalog",
+      "n": 25,
+      "adult": false,
+      "name": "jkunzyapi.com"
+    },
+    {
+      "url": "https://jszyapi.com/api.php/provide/vod/",
+      "how": "search",
+      "n": 6,
+      "adult": false,
+      "name": "jszyapi.com"
+    },
+    {
+      "url": "https://jyzyapi.com/provide/vod/from/jinyingyun/",
+      "how": "search",
+      "n": 6,
+      "adult": null,
+      "name": ""
+    },
+    {
+      "url": "https://lbapi9.com/api.php/provide/vod/",
+      "how": "catalog",
+      "n": 17,
+      "adult": false,
+      "name": "lbapi9.com"
+    },
+    {
+      "url": "https://lzizy1.com/api.php/provide/vod/",
+      "how": "search",
+      "n": 20,
+      "adult": false,
+      "name": "🥑┃量子┃资源·ok线路1"
+    },
+    {
+      "url": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+      "how": "catalog",
+      "n": 33,
+      "adult": false,
+      "name": "m3u8.apiyhzy.com"
+    },
+    {
+      "url": "https://p2100.net/api.php/provide/vod/",
+      "how": "search",
+      "n": 6,
+      "adult": false,
+      "name": "p2100.net"
+    },
+    {
+      "url": "https://pz.v88.qzz.io/?url=https://api.apibdzy.com/api.php/provide/vod/",
+      "how": "search",
+      "n": 3,
+      "adult": false,
+      "name": "pz.v88.qzz.io"
+    },
+    {
+      "url": "https://pz.v88.qzz.io/?url=https://lovedan.net/api.php/provide/vod/",
+      "how": "search",
+      "n": 10,
+      "adult": false,
+      "name": "pz.v88.qzz.io"
+    },
+    {
+      "url": "https://sdzyapi.com/api.php/provide/vod/",
+      "how": "catalog",
+      "n": 59,
+      "adult": false,
+      "name": "❤闪电资源"
+    },
+    {
+      "url": "https://slapibf.com/api.php/provide/vod/",
+      "how": "search",
+      "n": 20,
+      "adult": false,
+      "name": "♥森林(直连)"
+    },
+    {
+      "url": "https://subocaiji.com/api.php/provide/vod/",
+      "how": "search",
+      "n": 6,
+      "adult": false,
+      "name": "subocaiji.com"
+    },
+    {
+      "url": "https://suoniapi.com/api.php/provide/vod/",
+      "how": "catalog",
+      "n": 61,
+      "adult": false,
+      "name": "suoniapi.com"
+    },
+    {
+      "url": "https://thzy1.me/api.php/provide/vod/",
+      "how": "search",
+      "n": 1,
+      "adult": false,
+      "name": "thzy1.me"
+    },
+    {
+      "url": "https://tyyszy.com/api.php/provide/vod/",
+      "how": "catalog",
+      "n": 39,
+      "adult": false,
+      "name": "tyyszy.com"
+    },
+    {
+      "url": "https://tyyszyapi.com/api.php/provide/vod/",
+      "how": "catalog",
+      "n": 39,
+      "adult": false,
+      "name": "tyyszyapi.com"
+    },
+    {
+      "url": "https://vnzyz.com/api.php/provide/vod/",
+      "how": "catalog",
+      "n": 21,
+      "adult": false,
+      "name": "💕越南(直连)"
+    },
+    {
+      "url": "https://www.heiliaozyapi.com/api.php/provide/vod/",
+      "how": "catalog",
+      "n": 24,
+      "adult": false,
+      "name": "🔞黑料资源"
+    },
+    {
+      "url": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "how": "search",
+      "n": 6,
+      "adult": false,
+      "name": "www.hongniuzy2.com"
+    },
+    {
+      "url": "https://www.huyaapi.com/api.php/provide/vod/",
+      "how": "search",
+      "n": 6,
+      "adult": false,
+      "name": "www.huyaapi.com"
+    },
+    {
+      "url": "https://www.huyaapi.com/api.php/provide/vod/at/json/",
+      "how": "search",
+      "n": 6,
+      "adult": false,
+      "name": "🎬虎牙资源"
+    },
+    {
+      "url": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/",
+      "how": "search",
+      "n": 6,
+      "adult": false,
+      "name": "🐯虎牙采集·ok线路1"
+    },
+    {
+      "url": "https://www.iqiyizyapi.com/api.php/provide/vod/",
+      "how": "search",
+      "n": 5,
+      "adult": false,
+      "name": "www.iqiyizyapi.com"
+    },
+    {
+      "url": "https://www.mdzyapi.com/api.php/provide/vod/",
+      "how": "search",
+      "n": 3,
+      "adult": false,
+      "name": "www.mdzyapi.com"
+    },
+    {
+      "url": "https://xsd.sdzyapi.com/api.php/provide/vod/",
+      "how": "catalog",
+      "n": 59,
+      "adult": false,
+      "name": "xsd.sdzyapi.com"
+    },
+    {
+      "url": "https://yayazy2.com/api.php/provide/vod/",
+      "how": "catalog",
+      "n": 59,
+      "adult": false,
+      "name": "yayazy2.com"
+    },
+    {
+      "url": "https://zuida.xyz/api.php/provide/vod/",
+      "how": "search",
+      "n": 8,
+      "adult": false,
+      "name": "zuida.xyz"
+    }
+  ]
+}
