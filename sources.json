@@ -1,11 +1,32 @@
 {
-  "updated": "2026-11-02T15:29:27",
+  "updated": "2026-11-07T17:05:33+08:00",
   "sources": [
+    {
+      "url": "http://91md.me/api.php/provide/vod/"
+    },
+    {
+      "url": "http://api.11bat.com/api.php/provide/vod/"
+    },
     {
       "url": "http://api.guangsuapi.com/api.php/provide/vod/"
     },
     {
+      "url": "http://apilj.com/api.php/provide/vod/"
+    },
+    {
+      "url": "http://apilj.com/api.php/provide/vod/at/json/"
+    },
+    {
+      "url": "http://bt4.cc/api.php/provide/vod/"
+    },
+    {
+      "url": "http://bt4.cc/api.php/provide/vod/from/mdm3u8/"
+    },
+    {
       "url": "http://caiji.dyttzyapi.com/api.php/provide/vod/"
+    },
+    {
+      "url": "http://caiji.kuaichezy.org/api.php/provide/vod/"
     },
     {
       "url": "http://cj.10010888.xyz/api.php/provide/vod/"
@@ -14,13 +35,22 @@
       "url": "http://cj.ffzyapi.com/api.php/provide/vod/"
     },
     {
+      "url": "http://cj.lzcaiji.com/api.php/provide/vod/"
+    },
+    {
       "url": "http://cj.lziapi.com/api.php/provide/vod/"
+    },
+    {
+      "url": "http://cj.rycjapi.com/api.php/provide/vod/"
     },
     {
       "url": "http://cj.tianwe.cn/api.php/provide/vod/"
     },
     {
       "url": "http://ffzy.tv/api.php/provide/vod/"
+    },
+    {
+      "url": "http://ffzy1.tv/api.php/provide/vod/"
     },
     {
       "url": "http://ffzy5.tv/api.php/provide/vod/"
@@ -32,13 +62,28 @@
       "url": "http://jyzyapi.com/provide/vod/from/jinyingm3u8/"
     },
     {
+      "url": "http://madouse.la/api.php/provide/vod/"
+    },
+    {
+      "url": "http://naixxzy.com/api.php/provide/vod/"
+    },
+    {
       "url": "http://sdzyapi.com/api.php/provide/vod/"
+    },
+    {
+      "url": "http://shayuapi.com/api.php/provide/vod/"
     },
     {
       "url": "http://tyyszy.com/api.php/provide/vod/"
     },
     {
       "url": "http://www.jingpinx.com/api.php/provide/vod/"
+    },
+    {
+      "url": "http://xingba222.com/api.php/provide/vod/"
+    },
+    {
+      "url": "http://zuidazy.me/api.php/provide/vod/"
     },
     {
       "url": "https://155api.com/api.php/provide/vod/"
