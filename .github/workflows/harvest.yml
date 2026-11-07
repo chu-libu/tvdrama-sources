@@ -1,0 +1,42 @@
+name: weekly source harvest
+
+on:
+  schedule:
+    # 每周一 03:00 UTC = 北京时间周一 11:00
+    - cron: "0 3 * * 1"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: harvest
+  cancel-in-progress: false
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run harvest pipeline
+        run: python3 tools/weekly_harvest.py
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "nothing to commit"
+          else
+            git commit -m "harvest: $(date -u +%F) (see .github/heartbeat.json)"
+            git push
+          fi
+        # 心跳文件每轮都变（last_run 时间戳）→ 每周必有 commit，
+        # 仓库永不满 60 天无提交，定时调度不会被 GitHub 自动停用
