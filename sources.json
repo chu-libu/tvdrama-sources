@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T17:05:33+08:00",
+  "updated": "2026-11-09T18:59:36+08:00",
   "sources": [
     {
       "url": "http://91md.me/api.php/provide/vod/"
@@ -57,6 +57,9 @@
     },
     {
       "url": "http://fhapi9.com/api.php/provide/vod/"
+    },
+    {
+      "url": "http://ikunzyapi.com/api.php/provide/vod/"
     },
     {
       "url": "http://jyzyapi.com/provide/vod/from/jinyingm3u8/"
@@ -213,9 +216,6 @@
     },
     {
       "url": "https://m3u8.apiyhzy.com/api.php/provide/vod/"
-    },
-    {
-      "url": "https://p2100.net/api.php/provide/vod/"
     },
     {
       "url": "https://pz.v88.qzz.io/?url=https://api.apibdzy.com/api.php/provide/vod/"

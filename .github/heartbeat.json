@@ -1,16 +1,18 @@
 {
-  "last_run": "2026-11-07T17:05:33+08:00",
+  "last_run": "2026-11-09T18:59:36+08:00",
   "exported": true,
-  "existing": 77,
+  "existing": 92,
   "candidates": 128,
-  "alive": 89,
+  "alive": 91,
   "kept": 92,
-  "new_added": 15,
-  "dropped_this_run": [],
-  "guard_floor": 38,
+  "new_added": 0,
+  "dropped_this_run": [
+    "https://p2100.net/api.php/provide/vod/"
+  ],
+  "guard_floor": 46,
   "files_ok": 38,
   "files_fail": 7,
   "adult_skipped": 11,
   "sub_followed": 0,
-  "new_dead_skipped": 36
+  "new_dead_skipped": 35
 }
